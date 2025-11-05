@@ -2,22 +2,22 @@
   "name": "belajarjs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IndahAprillia/belajarjs.git"
+    "url": "git+https://github.com/asuradaely-ops/belajarjs.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IndahAprillia/belajarjs/issues"
+    "url": "https://github.com/asuradaely-ops/belajarjs/issues"
   },
-  "homepage": "https://github.com/IndahAprillia/belajarjs#readme",
+  "homepage": "https://github.com/asuradaely-ops/belajarjs#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "4.19.2"
   }
 }
